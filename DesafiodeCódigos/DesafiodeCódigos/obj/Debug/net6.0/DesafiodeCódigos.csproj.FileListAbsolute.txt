@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\bin\Debug\net6.0\DesafiodeCódigos.exe
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\bin\Debug\net6.0\DesafiodeCódigos.deps.json
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\bin\Debug\net6.0\DesafiodeCódigos.runtimeconfig.json
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\bin\Debug\net6.0\DesafiodeCódigos.dll
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\bin\Debug\net6.0\DesafiodeCódigos.pdb
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.dll
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\refint\DesafiodeCódigos.dll
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.pdb
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\DesafiodeCódigos.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\DesafiodeCódigos\DesafiodeCódigos\obj\Debug\net6.0\ref\DesafiodeCódigos.dll
